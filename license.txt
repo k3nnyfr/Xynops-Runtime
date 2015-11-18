@@ -1,0 +1,5 @@
+Auteur : Alexandre GAUVRIT
+
+Runtime Xynops réalisé avec NSIS
+
+Contact : gauvrit.alexandre@gmail.com - @K3nnyfr
